@@ -21,11 +21,9 @@ Ayan: Merge new datasets
 Progress: Added new datasets from Kaggle
 
 Maria: Look into how to implement additional data visualization with the merged dataset.
+Progress: (Nov.6) Started ensembling regression models and using them on georgina's and ayans modified dataset (accidentally confused my task with urvi's) and made some notes on data visualization with merged dataset (not tested yet)
 
-Progress: 
-
-Urvi: Look into how to implement linear regression models that will be best suitable given our data.
-
+Urvi: Look into how to implement linear regression models that will be best suitable given our data. 
 Progress: 
 
 Michelle: Look into some relevant NLP models we can use for this kind of data.
